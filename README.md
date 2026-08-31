@@ -28,6 +28,26 @@ Edamame-37@github:~$ cat about_me.json
 <br/>
 
 ```console
+Edamame-37@github:~$ cat my_interest_and_goals.json
+{
+  "technical": [
+    "Data Analytics",
+    "Software Engineering",
+    "Artificial Intelligence",
+    "Web Development"
+  ],
+  "learning_goals": [
+    "Improving Data Analytics Skills",
+    "Improving Software Engineering Skills",
+    "Improving Artificial Intelligence Skills",
+    "Mastering Web Development Skills"
+  ]
+}
+```
+
+<br/>
+
+```console
 Edamame-37@github:~$ cat lets_connect.txt
 📫 Email: ra07zlan@gmail.com
 💼 LinkedIn: linkedin.com/in/rafa-azlan

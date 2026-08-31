@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./header.svg" width="800" alt="Cyberpunk Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=22&pause=10000&color=4CE0D9&center=true&vCenter=true&width=700&lines=>+WELCOME+TO+MY+PROFILE+<" alt="Typing SVG" />
 </div>
 
 <br/>

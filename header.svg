@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=VT323&amp;display=swap');
+      
+      .text {
+        font-family: 'VT323', monospace;
+        font-size: 55px;
+        dominant-baseline: middle;
+        text-anchor: middle;
+      }
+      
+      .cyan {
+        fill: #4CE0D9;
+        text-shadow: 0 0 5px #4CE0D9, 0 0 10px #4CE0D9, 0 0 20px #4CE0D9;
+        animation: flicker 3s infinite alternate;
+      }
+      
+      .pink {
+        fill: #ECA4C2;
+        text-shadow: 0 0 5px #ECA4C2, 0 0 10px #ECA4C2, 0 0 20px #ECA4C2;
+        animation: flicker 2.5s infinite alternate-reverse;
+      }
+
+      .cursor {
+        fill: #ECEFF4;
+        animation: blink 1s step-end infinite;
+      }
+
+      /* Cyberpunk Neon Flicker Effect */
+      @keyframes flicker {
+        0%, 18%, 22%, 25%, 53%, 57%, 100% {
+          opacity: 1;
+        }
+        20%, 24%, 55% {
+          opacity: 0.1;
+        }
+      }
+
+      /* Cursor Blinking Effect */
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+    </style>
+  </defs>
+  
+  <text x="50%" y="50%" class="text">
+    <tspan class="cyan">&gt; WELCOME TO </tspan>
+    <tspan class="pink">MY PROFILE &lt;</tspan>
+    <tspan class="cursor">_</tspan>
+  </text>
+</svg>

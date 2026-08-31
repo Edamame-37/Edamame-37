@@ -1,10 +1,7 @@
 
-<p align="center">
-  <!-- WELCOME TO (Cyan) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=20&pause=10000&color=4CE0D9&center=false&vCenter=true&width=280&lines=>+WELCOME+TO+" alt="WELCOME TO" />
-  <!-- MY PROFILE (Pink) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=20&pause=10000&color=ECA4C2&center=false&vCenter=true&width=300&lines=MY+PROFILE+<" alt="MY PROFILE" />
-</p>
+<div align="center">
+  <img src="./header.svg" width="800" alt="Cyberpunk Header" />
+</div>
 
 <br/>
 

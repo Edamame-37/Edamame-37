@@ -1,10 +1,7 @@
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=50&pause=10000&color=4CE0D9&center=true&vCenter=true&width=800&lines=%3C+%2F+WELCOME+TO+MY+PROFILE+%3E&cache=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=50&pause=10000&color=ECA4C2&center=true&vCenter=true&width=800&lines=%3C+%2F+WELCOME+TO+MY+PROFILE+%3E&cache=light">
-    <img alt="WELCOME TO MY PROFILE" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=50&pause=10000&color=4CE0D9&center=true&vCenter=true&width=800&lines=%3C+%2F+WELCOME+TO+MY+PROFILE+%3E&cache=dark">
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=50&pause=10000&color=4CE0D9&center=true&vCenter=true&width=900&lines=%3C+%2F+WELCOME+TO+MY+PROFILE+%3E#gh-dark-mode-only" alt="WELCOME TO MY PROFILE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=50&pause=10000&color=ECA4C2&center=true&vCenter=true&width=900&lines=%3C+%2F+WELCOME+TO+MY+PROFILE+%3E#gh-light-mode-only" alt="WELCOME TO MY PROFILE" />
 </div>
 
 <br/>

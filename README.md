@@ -51,9 +51,9 @@ Edamame-37@github:~$ cat my_interest_and_goals.json
 <br/>
 
 ```console
+Edamame-37@github:~$ cat lets_connect.txt
 ```
 ```json
-Edamame-37@github:~$ cat lets_connect.txt
 📫 Email: ra07zlan@gmail.com
 💼 LinkedIn: linkedin.com/in/rafa-azlan
 ```

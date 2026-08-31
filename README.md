@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Welcome%20to%20my%20Profile!&fontSize=30&fontAlignY=35" alt="Welcome to my Profile"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=4AF626&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -14,9 +14,9 @@ Edamame-37@github:~$ cat about_me.json
   "role": "Informatics Student",
   "bio": [
     "Hello there!👋",
-    "I am Rafa Azlan, an enthusiastic Informatics Student at Universitas",
-    "Diponegoro with a strong passion for Data Analytics, Software",
-    "Engineering, and Artificial Intelligence.",
+    "I am Rafa Azlan, an enthusiastic Informatics Student at",
+    "Universitas Diponegoro with a strong passion for Data Analytics,",
+    "Software Engineering, Artificial Intelligence, and Research",
     "I thrive on solving complex problems and am highly motivated",
     "to continuously learn and adapt to new technologies. I'm always",
     "looking for exciting opportunities to grow, collaborate, and",
@@ -37,7 +37,8 @@ Edamame-37@github:~$ cat my_interest_and_goals.json
     "Data Analytics",
     "Software Engineering",
     "Artificial Intelligence",
-    "Web Development"
+    "Web Development",
+    "Research"
   ],
   "learning_goals": [
     "Improving Data Analytics Skills",
@@ -51,10 +52,31 @@ Edamame-37@github:~$ cat my_interest_and_goals.json
 <br/>
 
 ```console
-Edamame-37@github:~$ cat lets_connect.txt
+Edamame-37@github:~$ ls -la skills/
+```
+<p align="left">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
+
+
+<br/>
+
+```console
+Edamame-37@github:~$ cat lets_connect.json
 ```
 ```json
-📫 Email: ra07zlan@gmail.com
-💼 LinkedIn: linkedin.com/in/rafa-azlan
+{
+  "email": "ra07zlan@gmail.com",
+  "linkedin": "linkedin.com/in/rafa-azlan"
+}
 ```
-

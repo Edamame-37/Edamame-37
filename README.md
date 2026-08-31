@@ -1,7 +1,10 @@
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=4AF626&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile" alt="Typing SVG" />
-</div>
+<p align="center">
+  <!-- WELCOME TO (Cyan) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=20&pause=10000&color=4CE0D9&center=false&vCenter=true&width=280&lines=>+WELCOME+TO+" alt="WELCOME TO" />
+  <!-- MY PROFILE (Pink) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=20&pause=10000&color=ECA4C2&center=false&vCenter=true&width=300&lines=MY+PROFILE+<" alt="MY PROFILE" />
+</p>
 
 <br/>
 

@@ -27,28 +27,3 @@ guest@github:~$ cat about_me.json
 }
 ```
 
-```console
-guest@github:~$ ls -la skills/
-```
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,docker,linux,mysql,bash" alt="My Skills" />
-  </a>
-</div>
-<br/>
-
-```console
-guest@github:~$ ./fetch_github_stats.sh --user="[USERNAME_GITHUB_ANDA]"
-```
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_ANDA]&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_GITHUB_ANDA]&theme=nord&hide_border=true&background=2E3440" alt="GitHub Streak" />
-</div>
-<br/>
-
-```console
-guest@github:~$ echo "Thanks for dropping by! 🚀"
-Thanks for dropping by! 🚀
-guest@github:~$ █
-```

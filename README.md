@@ -1,6 +1,10 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=50&pause=10000&color=4CE0D9&center=true&vCenter=true&width=850&lines=<+/+WELCOME+TO+MY+PROFILE+>" alt="WELCOME TO MY PROFILE" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=50&pause=10000&color=4CE0D9&center=true&vCenter=true&width=850&lines=<+/+WELCOME+TO+MY+PROFILE+>">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=50&pause=10000&color=ECA4C2&center=true&vCenter=true&width=850&lines=<+/+WELCOME+TO+MY+PROFILE+>">
+    <img alt="WELCOME TO MY PROFILE" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=50&pause=10000&color=4CE0D9&center=true&vCenter=true&width=850&lines=<+/+WELCOME+TO+MY+PROFILE+>">
+  </picture>
 </div>
 
 <br/>
